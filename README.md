@@ -51,6 +51,10 @@
 
 يمكن تنزيل قاعدة البيانات من [هنا](https://github.com/rn0x/Historical_Encyclopedia/releases) 
 
+بعض الملفات الكبيرة مقسمة لعدة أقسام 
+
+لفك الضغط عنها تحتاج برنامج .7z
+
 
 # LICENSE
 
